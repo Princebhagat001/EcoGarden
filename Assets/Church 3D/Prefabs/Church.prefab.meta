@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b626a2c19b493bc47b8551a65bce8ace
+timeCreated: 1469698729
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68143
+  packageName: Church 3D
+  packageVersion: 1.0
+  assetPath: Assets/Church 3D/Prefabs/Church.prefab
+  uploadId: 129380

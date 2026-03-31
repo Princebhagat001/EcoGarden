@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe87c8635e6f115499fd664cd4b202a9
+timeCreated: 1446230629
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68143
+  packageName: Church 3D
+  packageVersion: 1.0
+  assetPath: Assets/Church 3D/Materials/window.mat
+  uploadId: 129380

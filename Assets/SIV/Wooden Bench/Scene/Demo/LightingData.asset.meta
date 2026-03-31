@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 134633caa2fb36c47a13841db3c5ad8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267777
+  packageName: Stylized Wooden Bench PBR
+  packageVersion: 1.0.0
+  assetPath: Assets/SIV/Wooden Bench/Scene/Demo/LightingData.asset
+  uploadId: 619817

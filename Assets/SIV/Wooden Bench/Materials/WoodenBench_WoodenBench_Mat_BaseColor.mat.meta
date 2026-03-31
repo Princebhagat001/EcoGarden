@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71395b2ea17761d40b528ec33bbe1b8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267777
+  packageName: Stylized Wooden Bench PBR
+  packageVersion: 1.0.0
+  assetPath: Assets/SIV/Wooden Bench/Materials/WoodenBench_WoodenBench_Mat_BaseColor.mat
+  uploadId: 619817

@@ -39,10 +39,10 @@ public class ReadmeEditor : Editor {
 		var assembly = typeof(EditorApplication).Assembly; 
 		var windowLayoutType = assembly.GetType("UnityEditor.WindowLayout", true);
 		var method = windowLayoutType.GetMethod("LoadWindowLayout", BindingFlags.Public | BindingFlags.Static);
-		method.Invoke(null, new object[]{Path.Combine(Application.dataPath, "TutorialInfo/Layout.wlt"), false});
+		method.Invoke(null, new object[]{Path.Combine(Application.dataPath, "IgniteCoders/Simple Water Shader/Info/Layout.wlt"), false});
 	}
 	
-	[MenuItem("Tutorial/Show Tutorial Instructions")]
+	[MenuItem("Documentation/Simple Water Shader")]
 	static Readme SelectReadme() 
 	{
 		var ids = AssetDatabase.FindAssets("Readme t:Readme");
@@ -124,7 +124,6 @@ public class ReadmeEditor : Editor {
 		m_BodyStyle = new GUIStyle(EditorStyles.label);
 		m_BodyStyle.wordWrap = true;
 		m_BodyStyle.fontSize = 14;
-		m_BodyStyle.richText = true;
 		
 		m_TitleStyle = new GUIStyle(m_BodyStyle);
 		m_TitleStyle.fontSize = 26;

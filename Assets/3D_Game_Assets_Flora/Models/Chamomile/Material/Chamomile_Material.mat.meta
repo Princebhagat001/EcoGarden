@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b294e53cc580604d9ee014346bba9b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Models/Chamomile/Material/Chamomile_Material.mat
+  uploadId: 751987

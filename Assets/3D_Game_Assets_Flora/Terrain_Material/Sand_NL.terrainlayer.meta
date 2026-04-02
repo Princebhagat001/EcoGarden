@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d6826fa4cfe92a45b37e5e54c3b1898
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Terrain_Material/Sand_NL.terrainlayer
+  uploadId: 751987

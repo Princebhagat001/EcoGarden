@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca4a2f2462a54b446a5c205979cfddeb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Models/Lotus/Material/Main leaf_stamen_Material.mat
+  uploadId: 751987

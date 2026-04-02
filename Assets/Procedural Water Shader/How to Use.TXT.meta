@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 761b832b538948746b6eb34833fdea57
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353486
+  packageName: Procedural Water Shader
+  packageVersion: 1.1.0
+  assetPath: Assets/Procedural Water Shader/How to Use.TXT
+  uploadId: 855070

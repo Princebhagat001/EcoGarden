@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ee35e310f392264dada8318c5a492c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Models/Fern/Material/Atlas_Grass_1_Var_Material.mat
+  uploadId: 751987

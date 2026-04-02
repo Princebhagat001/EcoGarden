@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a41deed03e0ed864690e0d8965344042
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Terrain_Material/Ground_NL.terrainlayer
+  uploadId: 751987

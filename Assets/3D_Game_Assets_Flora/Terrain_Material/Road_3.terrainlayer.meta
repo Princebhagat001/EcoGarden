@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcd950d9713a1194891fa7e40c376293
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Terrain_Material/Road_3.terrainlayer
+  uploadId: 751987

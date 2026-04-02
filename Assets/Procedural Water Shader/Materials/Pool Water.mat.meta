@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59a410df77f0c1e44b2c47816320e40e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353486
+  packageName: Procedural Water Shader
+  packageVersion: 1.1.0
+  assetPath: Assets/Procedural Water Shader/Materials/Pool Water.mat
+  uploadId: 855070

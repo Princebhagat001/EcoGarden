@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f12d10a20e70d9146ac97633b2ab2ba1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Models/Stones_Min/Material/Stones_Min_1_Material.mat
+  uploadId: 751987

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bbaacdad9e0d49f4594c986566db96c4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353486
+  packageName: Procedural Water Shader
+  packageVersion: 1.1.0
+  assetPath: Assets/Procedural Water Shader/Shaders/ProceduralWater.shader
+  uploadId: 855070

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db9a42430b6ba764ea70417b29a99cd3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Terrain_Material/Materials/Water.mat
+  uploadId: 751987

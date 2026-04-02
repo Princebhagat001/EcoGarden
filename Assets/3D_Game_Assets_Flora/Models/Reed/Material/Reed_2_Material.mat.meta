@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dcf0fa27c6df9440bad0c3455c15465
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Models/Reed/Material/Reed_2_Material.mat
+  uploadId: 751987

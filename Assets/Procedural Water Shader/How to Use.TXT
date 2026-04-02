@@ -1,0 +1,4 @@
+Instructions
+1. Add a plane to the scene and set it to your desired scale.
+2. Create the FX/ProceduralWater material and apply it to the plane.
+3. That’s it!

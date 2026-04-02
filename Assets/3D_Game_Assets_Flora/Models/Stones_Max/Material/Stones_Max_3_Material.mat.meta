@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6003eb5e74f19a43bcef7584df15631
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318366
+  packageName: 3D_Game_Assets_Flora
+  packageVersion: 1.0.0
+  assetPath: Assets/3D_Game_Assets_Flora/Models/Stones_Max/Material/Stones_Max_3_Material.mat
+  uploadId: 751987

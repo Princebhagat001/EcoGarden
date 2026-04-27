@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2cd97d1d7610f1949b3c503266d7f949
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321105
+  packageName: Gems and Crystals - Free
+  packageVersion: 1.0
+  assetPath: Assets/Aztech Games/GemsAndCrystals/Script/Rotate.cs
+  uploadId: 759781

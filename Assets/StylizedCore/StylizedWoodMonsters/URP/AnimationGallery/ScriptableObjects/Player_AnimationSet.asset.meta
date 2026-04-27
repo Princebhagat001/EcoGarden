@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3432580bdaa18534d9f24a32dbfe48df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371506
+  packageName: Stylized Player Character (Free)
+  packageVersion: 1.0
+  assetPath: Assets/StylizedCore/StylizedWoodMonsters/URP/AnimationGallery/ScriptableObjects/Player_AnimationSet.asset
+  uploadId: 893850

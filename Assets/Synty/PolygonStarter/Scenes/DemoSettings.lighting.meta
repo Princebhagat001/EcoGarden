@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d4fd306a1b2d8e478f588a133b95ab9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156819
+  packageName: POLYGON - Starter Pack - Art by Synty
+  packageVersion: 1.1.0
+  assetPath: Assets/Synty/PolygonStarter/Scenes/DemoSettings.lighting
+  uploadId: 883500

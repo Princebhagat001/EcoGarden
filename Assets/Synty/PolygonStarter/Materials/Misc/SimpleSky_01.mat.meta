@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 749197eb2a1afbc4a8ead02781020e55
+timeCreated: 1572320897
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156819
+  packageName: POLYGON - Starter Pack - Art by Synty
+  packageVersion: 1.1.0
+  assetPath: Assets/Synty/PolygonStarter/Materials/Misc/SimpleSky_01.mat
+  uploadId: 883500

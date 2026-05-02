@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b47b25a07049f0941baae4cf072c0d18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 365104
+  packageName: Free Sample Stylized Hand-Painted Plant & Flower Pack
+  packageVersion: 1.0
+  assetPath: Assets/Patchmesh/Free Sample Stylized Hand-Painted Plant & Flower Pack/Materials/Rose
+    - Petal 2.mat
+  uploadId: 872228

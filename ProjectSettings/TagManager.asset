@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - Coin
+  - Information
   layers:
   - Default
   - TransparentFX

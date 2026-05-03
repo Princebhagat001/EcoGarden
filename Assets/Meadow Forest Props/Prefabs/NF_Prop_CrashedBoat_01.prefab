@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8224364368341969031}
   - component: {fileID: 1791602743474771387}
   - component: {fileID: 1363690821152310984}
+  - component: {fileID: 7869364299769520341}
   m_Layer: 0
   m_Name: NF_Prop_CrashedBoat_01
   m_TagString: Untagged
@@ -109,7 +110,7 @@ MeshCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -3871958717972572343, guid: e67ae80881b5c894aaffe40bdeca7926, type: 3}
 --- !u!114 &1791602743474771387
@@ -138,6 +139,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionTextUI: {fileID: 0}
+--- !u!65 &7869364299769520341
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5838762778347119582}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2, y: 2, z: 3.6246228}
+  m_Center: {x: 0.028070109, y: 0.205924, z: 0.019153606}
 --- !u!1 &5979288445367575744
 GameObject:
   m_ObjectHideFlags: 0

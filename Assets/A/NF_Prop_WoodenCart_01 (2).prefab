@@ -150,6 +150,7 @@ GameObject:
   - component: {fileID: 4685148246631638042}
   - component: {fileID: 8655914310160559314}
   - component: {fileID: 2322662561866828644}
+  - component: {fileID: 7800150532739233110}
   m_Layer: 0
   m_Name: NF_Prop_WoodenCart_01 (2)
   m_TagString: Untagged
@@ -274,3 +275,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionTextUI: {fileID: 0}
+--- !u!65 &7800150532739233110
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5102684068011916424}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2, y: 2, z: 2.664031}
+  m_Center: {x: -0.000000059604645, y: 0.7204347, z: 0.31626529}

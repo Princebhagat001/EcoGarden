@@ -4460,7 +4460,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 37942029}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0000059604645}
+  m_LocalPosition: {x: 0, y: 0, z: -0.0000004898757}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4468,7 +4468,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.1, y: -0.5}
+  m_AnchoredPosition: {x: -0.10000062, y: 0.5000009}
   m_SizeDelta: {x: 2.5, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &37942031
@@ -4491,7 +4491,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0dbcf4413a4b6964796d53f7b468d6c0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7501077c8cdce4245b2d6234fe107c07, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -42841,7 +42841,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 356084511}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0000059604645}
+  m_LocalPosition: {x: 0, y: 0, z: 0.000014800577}
   m_LocalScale: {x: 0.015, y: 0.015, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -42850,7 +42850,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.2, y: 1}
+  m_AnchoredPosition: {x: 1.3, y: -1.3999984}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &356084513
@@ -45799,6 +45799,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1886702687807014, guid: 6c923e622fdfafa42b06425421702e07, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1361455406}
+    - targetCorrespondingSourceObject: {fileID: 1886702687807014, guid: 6c923e622fdfafa42b06425421702e07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1361455407}
   m_SourcePrefab: {fileID: 100100000, guid: 6c923e622fdfafa42b06425421702e07, type: 3}
 --- !u!1 &382581384
 GameObject:
@@ -108676,7 +108679,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 863887724}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0000059604645}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0000083856285}
   m_LocalScale: {x: 0.015, y: 0.015, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -108685,7 +108688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.2, y: 1.6}
+  m_AnchoredPosition: {x: -1.2000011, y: -1.3999995}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &863887726
@@ -125084,7 +125087,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1005652269}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.0000019967556}
+  m_LocalPosition: {x: 0, y: 0, z: -0.0000014360994}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -125092,8 +125095,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.35, y: 0}
-  m_SizeDelta: {x: 6.2, y: 3.5}
+  m_AnchoredPosition: {x: 0.35000288, y: -1.0000006}
+  m_SizeDelta: {x: 4, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1005652271
 MonoBehaviour:
@@ -125115,11 +125118,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The horse (Equus ferus caballus) is a domesticated, hoofed herbivorous
-    mammal from the family Equidae, featuring a long mane, tail, and solid hoofs.
-    Evolving over 55 million years, they were domesticated around 4000\u20136000
-    BCE in Central Asia. Known for intelligence and social herd behavior, horses
-    are used globally for riding, work, sport, and companionship."
+  m_text: 1998 to 2018
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -125146,13 +125145,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 0.3
-  m_fontSizeBase: 0.3
+  m_fontSize: 0.5
+  m_fontSizeBase: 0.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -132427,7 +132426,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1059555589
 RectTransform:
   m_ObjectHideFlags: 0
@@ -132435,8 +132434,8 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1059555588}
-  m_LocalRotation: {x: -0.040487528, y: 0.9991089, z: -0.007843589, w: 0.008986404}
-  m_LocalPosition: {x: 0, y: 0, z: 0.61}
+  m_LocalRotation: {x: -0.0078814365, y: 0.9997343, z: -0.010824219, w: 0.01876502}
+  m_LocalPosition: {x: 0, y: 0, z: 0.6263733}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -132445,11 +132444,11 @@ RectTransform:
   - {fileID: 1005652270}
   - {fileID: 37942030}
   m_Father: {fileID: 244225016}
-  m_LocalEulerAnglesHint: {x: 0.856, y: 178.935, z: -4.649}
+  m_LocalEulerAnglesHint: {x: 1.223, y: 177.839, z: -0.926}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.39, y: 3.16}
-  m_SizeDelta: {x: 9, y: 4}
+  m_AnchoredPosition: {x: -0.30923656, y: 2.1634018}
+  m_SizeDelta: {x: 5.3, y: 4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1059555590
 MonoBehaviour:
@@ -168219,6 +168218,27 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+--- !u!65 &1361455407
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1361455402}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4, y: 3, z: 4}
+  m_Center: {x: 0, y: 1.1995445, z: -0.00000008940697}
 --- !u!1001 &1361582627
 PrefabInstance:
   m_ObjectHideFlags: 0
